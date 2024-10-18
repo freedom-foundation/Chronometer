@@ -1,0 +1,4 @@
+REFERENCE
+Statement: nobody can keep time; nobody knows what time it is. 
+ support: CIA wfb note on recent timezone change 
+Because the timezones were changed you have multiple timekeeping going. Usually the NAVSTAR-GPS is 1hr behind general network time. Other GNSS may not have the same time therfore because of time only GNSS may not be inter-compatible although android has software to intermix these GNSS agnosticly. 
