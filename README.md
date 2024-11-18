@@ -13,3 +13,8 @@ Einstein's well known theory of reletivity is widely accepted as portraying time
 assume perl specifically uses the display math mode subset of latex (https://www.overleaf.com/learn/latex/Mathematical_expressions)
 
  The syntax is fairly intuitive, you can find a list of symbol codes if you need anything besides ()*/-+= etc. here (https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
+
+## REFERENCE
+Statement: nobody can keep time; nobody knows what time it is. 
+ support: CIA wfb note on recent timezone change 
+Because the timezones were changed you have multiple timekeeping going. Usually the NAVSTAR-GPS is 1hr behind general network time. Other GNSS may not have the same time therfore because of time only GNSS may not be inter-compatible although android has software to intermix these GNSS agnosticly. 
